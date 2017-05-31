@@ -1,19 +1,19 @@
-* cpu:Intel Core i7-7700K Kaby Lake 4.2 GHz LGA 1151 Boxed Processor - $300
-* case:Corsair Graphite Series 760T Full Tower Windowed Computer Case - Arctic White - $180
-* graphics card:EVGA GeForce GTX 1080 8GB SC2 GAMING iCX Video Card (2) - $1140
-* ram:Corsair Vengeance RGB 32GB 4 x 8GB DDR4-3000 PC4-24000 CL15 Dual Channel Desktop Memory Kit - $360
-* hd:Seagate Barracuda 2TB SATA III 7,200 RPM Internal HDD - OEM - $70
-* cooling:Corsair Hydro Series H110i Extreme Performance Liquid Cooling System - $135
-* os:windows 10 
-* motherboard:ASUS Z270 ROG MAXIMUS IX HERO LGA 1151 ATX Intel Motherboard - $230
-* ssd:Crucial MX300 525GB 2.5" SATA III Internal SSD - $160
-* power supply:EVGA GQ 1000 Watt 80 Plus Gold ATX Power Supply - $165
-* lighting:NZXT HUE Advanced PC Lighting - $80
-* ups?
+- [ ] cpu:Intel Core i7-7700K Kaby Lake 4.2 GHz LGA 1151 Boxed Processor - $300
+- [ ] case:$180 Corsair Graphite Series 760T Full Tower Windowed Computer Case - Arctic White     
+- [ ] graphics card:EVGA GeForce GTX 1080 8GB SC2 GAMING iCX Video Card (2) - $1140
+- [ ] ram:Corsair Vengeance RGB 32GB 4 x 8GB DDR4-3000 PC4-24000 CL15 Dual Channel Desktop Memory Kit - $360
+- [ ] hd:Seagate Barracuda 2TB SATA III 7,200 RPM Internal HDD - OEM - $70
+- [ ] cooling:Corsair Hydro Series H110i Extreme Performance Liquid Cooling System - $135
+- [ ] os:windows 10 
+- [ ] motherboard:ASUS Z270 ROG MAXIMUS IX HERO LGA 1151 ATX Intel Motherboard - $230
+- [ ] ssd:Crucial MX300 525GB 2.5" SATA III Internal SSD - $160
+- [ ] power supply:EVGA GQ 1000 Watt 80 Plus Gold ATX Power Supply - $165
+- [ ] lighting:NZXT HUE Advanced PC Lighting - $80
+- [ ] ups?
 
 
 
-* http://www.microcenter.com/product/441510/Graphite_Series_760T_Full_Tower_Windowed_Computer_Case_-_Arctic_White 
+*  http://www.microcenter.com/product/441510/Graphite_Series_760T_Full_Tower_Windowed_Computer_Case_-_Arctic_White
 
 * http://www.microcenter.com/product/472951/Z270_ROG_MAXIMUS_IX_HERO_LGA_1151_ATX_Intel_Motherboard
 
