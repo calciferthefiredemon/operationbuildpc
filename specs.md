@@ -1,4 +1,4 @@
-- [ ] cpu:Intel Core i7-7700K Kaby Lake 4.2 GHz LGA 1151 Boxed Processor - $300
+- [ ] cpu:Intel Core i7-7700K Kaby Lake 4.2 GHz LGA 1151 Boxed Processor - [$300](http://www.microcenter.com/product/441510/Graphite_Series_760T_Full_Tower_Windowed_Computer_Case_-_Arctic_White)
 - [ ] case:$180 Corsair Graphite Series 760T Full Tower Windowed Computer Case - Arctic White     
 - [ ] graphics card:EVGA GeForce GTX 1080 8GB SC2 GAMING iCX Video Card (2) - $1140
 - [ ] ram:Corsair Vengeance RGB 32GB 4 x 8GB DDR4-3000 PC4-24000 CL15 Dual Channel Desktop Memory Kit - $360
@@ -13,7 +13,7 @@
 
 
 
-*  http://www.microcenter.com/product/441510/Graphite_Series_760T_Full_Tower_Windowed_Computer_Case_-_Arctic_White
+
 
 * http://www.microcenter.com/product/472951/Z270_ROG_MAXIMUS_IX_HERO_LGA_1151_ATX_Intel_Motherboard
 
