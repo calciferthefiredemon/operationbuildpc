@@ -9,8 +9,6 @@
 - [ ] Motherboard: ASUS Z270 ROG MAXIMUS IX HERO LGA 1151 ATX Intel Motherboard - [$230](http://www.microcenter.com/product/472951/Z270_ROG_MAXIMUS_IX_HERO_LGA_1151_ATX_Intel_Motherboard)
 - [ ] SSD: Crucial MX300 525GB 2.5" SATA III Internal SSD - [$160](http://www.microcenter.com/product/467325/MX300_525GB_25_SATA_III_Internal_SSD)
 - [ ] Power Supply: EVGA GQ 1000 Watt 80 Plus Gold ATX Power Supply - [$165](http://www.microcenter.com/product/458748/GQ_1000_Watt_80_Plus_Gold_ATX_Power_Supply)
-- [ ] Lighting: NZXT HUE Advanced PC Lighting - [$80](http://www.microcenter.com/product/457984/HUE_Advanced_PC_Lighting)
-- [ ] UPS?
 
 
 
